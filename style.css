@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@300&family=Roboto:wght@300&display=swap');
+*{
+    font-family: 'Poppins',sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 0.5s;
+}
+.header{
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color:#2F2721 ;
+    padding: 2rem 10%;
+    display: flex;
+    justify-content: space-between;
+}
+.header a, header i{
+    color: white;
+    font-size: 1.2em;
+}
+.navBar>.anchor{
+    margin: 5px
+}
+.anchor{
+    height: 100%;
+}
+.anchor:hover{
+    color: orange;
+}
+.mainSection{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
+    justify-content: flex-start;
+    background-image: url(https://di-uploads-pod16.dealerinspire.com/infinitiofcoralgables/uploads/2021/12/Coffee-Shops-South-Florida.png);
+    width: 100%;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+}
+.content>div:first-child{
+    width: 50%;
+    height: 100%;
+    margin: 2%;
+}
+.aClass{
+
+    width: 50%;
+    text-align: center;
+    margin: 2%;
+    text-align: left;
+    
+}
+.aClass>a{
+    font-size: 0.75em;
+    background-color:#D3AD7F ;
+    border: 3px solid #D3AD7F;
+    text-transform: capitalize;
+    color: white;
+    padding: 3% 7%;
+    border-radius: 5px;
+    margin-bottom: 5%;
+}
+.h3Class{
+    font-size: 2rem;
+    text-transform: uppercase;
+    color: #e0d8d2;
+    margin: 0;
+    padding: 0;
+    letter-spacing: 2px;
+    width: 100%;
+    
+}
+.content>div>a{
+    width: 100%;
+}
+
+
+.aboutUs{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-image: url("https://images.pexels.com/photos/1694980/pexels-photo-1694980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.centerContent{
+    display: flex;
+    justify-content: center;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-basis: 50%;
+}
+.col>p{
+    padding: 5%;
+}
+.rowMenu{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.colMenu{
+    width: 300px;
+    height: 400px;
+    background-color: #2c1c09;
+    margin: 1%;
+    border: 5px solid #2c1c09;
+    border-radius: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.colMenu>img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin: 10%;
+}
+.colMenu>h2, .colMenu>p{
+    margin: 10%;
+    color: white;
+}
+.colMenu:hover>h2, .colMenu:hover>p{
+    margin: 10%;
+    color: black;
+}
+.colMenu:hover{
+    border-color:#b48245 ;
+    background-color: #b48245;
+}
+.rowContact{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+.colContact{
+    width: 50%;
+    margin: 1%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.colContact2{
+    width: 50%;
+    margin: 1%;
+    padding: 0% 5%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+}
+.colContact>img{
+    width: 100%;
+    margin: 1%;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-basis: 50%;
+}
+.row>.colContact2>div{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.row>.colContact2>div>input{
+    margin: 0px 10px;
+    width: 90%;
+}
+.button{
+    margin: 0%;
+    padding: 0%;
+    background-color: #2c1c09;
+    color: white;
+}
+.button:hover{
+    background-color: #e9c7b1;
+    color: #b48245;
+    border-color: #e9c7b1;
+}
+.contactUs{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-image: url("https://images.pexels.com/photos/1694980/pexels-photo-1694980.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: #2F2721;
+    color: white;
+}
+.footerContact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.footerContact>.col>*{
+    margin: 5%;
+}
+.footerContact>.col>p{
+    font-size: small;
+    
+}
+.colFooter{
+    justify-content: start;
+    flex-basis: 25%;
+    margin-top: 5%;
+}
+.colFooter>p>a{
+    color: white;
+}
+.colFooter>p>a:hover{
+    color: orange;
+}
+.footerFoot{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 10%;
+    color: white;
+
+}
+.footerFoot>h5{
+    text-align: center;
+    margin: 5%;
+}
+.inputBox{
+    width: 100%;
+    height: 40px;
+    background-color: #b48245;
+    border: 3px solid #b48245 ;
+    border-radius: 5px;
+}
+.inputBox>input{
+    background-color: #b48245 ;
+    border: 3px solid rgb(73, 66, 66);
+    border-radius: 5px;
+    color: white;
+}
+.inputBox>i{
+    padding-top: 10px;
+    padding-left: 2px;
+}
