@@ -1,0 +1,114 @@
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+C:\Users\Canberk\source\repos\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+C:\Users\Canberk\Desktop\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+C:\Users\Canberk\Desktop\Ahsen\Maraton Soruları\Maraton_Uygulama_24Ekim_Ahsen_Aydinoglu\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+C:\Users\sefas\Desktop\maraton 2 hazırlık\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+C:\Users\Halil İbrahim\Downloads\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.exe
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.deps.json
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.runtimeconfig.json
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.dll
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\bin\Debug\net6.0-windows\CoffeeHouse.pdb
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.AssemblyReference.cache
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Form1.resources
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Karsilama.resources
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.Properties.Resources.resources
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.GenerateResource.cache
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfoInputs.cache
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.AssemblyInfo.cs
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.csproj.CoreCompileInputs.cache
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.dll
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\refint\CoffeeHouse.dll
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.pdb
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\CoffeeHouse.genruntimeconfig.cache
+D:\HP YEDEK\KontrolEdilecekProjeler\CoffeeCenter\CoffeeHouse\CoffeeHouse\obj\Debug\net6.0-windows\ref\CoffeeHouse.dll
